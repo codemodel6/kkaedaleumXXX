@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div className="bg-background-dark fixed w-full h-24 z-99 flex justify-between items-center px-8">
+    <div className="bg-transparent fixed w-full h-24 z-99 flex justify-between items-center px-8">
       <div className="flex justify-between items-center w-2/5 h-full">
         <button className="text-primary-100 flex flex-col justify-center items-center bg-white h-1/2 w-2/5 text-lg">
           molruco
